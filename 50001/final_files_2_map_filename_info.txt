@@ -1,0 +1,12 @@
+¡àV.tif   <-->   111111.tif
+ßÃ.tif    <-->   222222.tif
+xÃ.tif    <-->   333333.tif
+
+
+previous 'final' mapnames were:
+
+_MÈ.png     <-->    666666.png
+]Z.tif      <-->    777777.tif
+¼cyÌ.tif    <-->    888888.tif
+
+
